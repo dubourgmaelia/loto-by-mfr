@@ -3,4 +3,5 @@ flask-socketio
 qrcode
 gunicorn
 eventlet
+greenlet
 pillow
