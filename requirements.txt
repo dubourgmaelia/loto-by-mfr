@@ -1,0 +1,6 @@
+flask
+flask-socketio
+qrcode
+gunicorn
+eventlet
+pillow
