@@ -1,7 +1,7 @@
 flask
 flask-socketio
 qrcode
-gunicorn
-eventlet
+gunicorn==20.1.0
+eventlet==0.33.3
 greenlet
 pillow
